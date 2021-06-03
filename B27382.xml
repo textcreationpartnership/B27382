@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Sussex, or, The Barbarous robber strangely convicted being a full and true relation of one Gardiner, that was hang'd upon the testimony of his own daughter, at the last assizes at East- Greenstead in Sussex : with the carriage of him and his companion ... at the place of execution, the 15th of this instant March, 1676.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27382</idno><idno type="EEBO-CITATION">31355567</idno>
+  <idno type="VID">187753</idno>
+  <idno type="EEBO-PROQUEST">2240871737</idno>
+  
+            <idno type="STC">Wing N1004A</idno>
+            <idno type="OCLC">31355567</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187753)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Sussex, or, The Barbarous robber strangely convicted being a full and true relation of one Gardiner, that was hang'd upon the testimony of his own daughter, at the last assizes at East- Greenstead in Sussex : with the carriage of him and his companion ... at the place of execution, the 15th of this instant March, 1676.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With permission, March 23, 1675/6. H.O."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Robbery --  England --  Sussex.</term>
+               <term type="topical_term">Brigands and robbers --  England --  Sussex.</term>
+               <term type="topical_term">Executions and executioners --  England --  Sussex.</term>
+               <term type="geographic_name">Sussex (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187753:1"/>
+            <pb facs="tcp:187753:1"/>
+            <p>NEWS FROM SUSSEX: Or, the Barbarous ROBBER Strangely Convicted.</p>
+            <p>Being a full and true RELATION Of one <hi>Gardiner</hi> that was hang'd upon the Testimony of his own Daughter; at the last Assizes at <hi>East-Greenstead</hi> in <hi>Sussex.</hi>
+            </p>
+            <p>With the Carriage of him and his Companion that suffered with him for the same Fact, both at the Bar, in Pri<g ref="char:EOLhyphen"/>son, and at the place of Execution, the 15th of this Instant <hi>March</hi> 1676.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Permission,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>March</hi> 23. 1675/6.</date>
+                           </dateline>
+                           <signed>H. O.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:187753:3"/>
+            <pb n="3" facs="tcp:187753:3"/>
+            <head>News from <hi>Sussex:</hi> or the barbarous Robber strangely convicted.</head>
+            <p>THe Lent-Assizes held at <hi>East-Green<g ref="char:EOLhyphen"/>stead,</hi> for the County of <hi>Sussex,</hi> yielded few extraordinary or re<g ref="char:EOLhyphen"/>markable Occurrences, besides the Condemnation of one <hi>Gardiner</hi> for a barbarous Burglary and Robbery, by him com<g ref="char:EOLhyphen"/>mitted above a year and a half ago; which was not till these Assizes discovered, being then po<g ref="char:EOLhyphen"/>sitively proved against him by his own Daugh<g ref="char:EOLhyphen"/>ter: the Circumstances of the matter being thus.</p>
+            <p>This <hi>Gardiner</hi> had for the most part of his time been a very bad liver; several times taxed for pilfering and purloyning tricks, and once branded in the hand already for Felony. He li<g ref="char:EOLhyphen"/>ved not far from <hi>Horsham,</hi> and (as I am infor<g ref="char:EOLhyphen"/>med) had no more Children but this Daughter that gave evidence against him, and was legally instrumental to his punishment: For though he had received several cheks and corrections, as by Imprisonment and Burning in the hand, as afore<g ref="char:EOLhyphen"/>said, that it seems he was so far hardned in evil, that he would take no warning, but still pursued his wicked courses, till they brought him to de<g ref="char:EOLhyphen"/>struction and an untimely end. For this Daughter
+<pb n="4" facs="tcp:187753:4"/> after her Mothers death being by him put out unto, or taken to keep by one <hi>Davis</hi> her Mothers Brother living in the Parish of <hi>Shipley</hi> about 4 or 5 miles from <hi>Hoasham.</hi> Her Father was wont of<g ref="char:EOLhyphen"/>ten to come thither to visit her, being kindly en<g ref="char:EOLhyphen"/>tertained and made welcome by his Brother-in-law: But notwithstanding these civilities, com<g ref="char:EOLhyphen"/>ing, by I know not what means, to understand that there was a pretty considerable sum of mo<g ref="char:EOLhyphen"/>ney in the house, and observing that there was usually no more that lay in the house a nights but this Daughter and her Uncle, he resolves with some of his Confederates to make them<g ref="char:EOLhyphen"/>selves masters of it.</p>
+            <p>And accordingly about a week before <hi>Micha<g ref="char:EOLhyphen"/>elmas</hi> last was twelve months, he and one or two of his Asociates came in the night-time (the pro<g ref="char:EOLhyphen"/>perest season for such deeds of darkness) to this <hi>Davis</hi>'s house, and having got a Coulter (an iron Instrument belonging to a Plough) they there<g ref="char:EOLhyphen"/>with forced open the door; the noise whereof a<g ref="char:EOLhyphen"/>wakened the man of the house, who perceiving Thieves entering into his house, and concluding he should be undone if they effected their wicked designe, took courage (though he had none but this poor maid to second him) to oppose them; and accordingly with what Weapon he could light upon in that distraction, he fought with them a considerable time, keeping them out of the door of the room wherein he lay; but at last one of them (who since appears to be this <hi>Gardiner</hi>) broke in upon him through the wall,
+<pb n="5" facs="tcp:187753:4"/> and then seeing himself overmastered, he submit<g ref="char:EOLhyphen"/>ted: But their <hi>Mercies</hi> proved very <hi>Inhumane Cruelties;</hi> for this person that came in through the wall, not content to conquer and rob him, after he had yielded to their violence, most bar<g ref="char:EOLhyphen"/>barously with the aforesaid Coulter, broke both his arms, and gave him several other grievous bruises and wounds; and then having laid him as it were dead on the floor, and bound the young wench, and turned her on her face, swearing, <hi>They would kill her if she durst look up:</hi> They lighted a Candle and fell to pillaging the house, but first broke open a Chest wherein the mony was, which they took away to a considerable va<g ref="char:EOLhyphen"/>lue, and several other things which they thought fit for their turn; and so leaving the Girl bound and the man in that lamentable condition, they departed with their Booty; no less wickedly got, than it was like to be dearly paid for.</p>
+            <p>For notwithstanding their severe Charge, the maid apprehending them very busie in rumma<g ref="char:EOLhyphen"/>ging the Chests, took the boldness now and then to peep up a little, and by the light of the can<g ref="char:EOLhyphen"/>dle could plainly discover her Father to be the man that carried the Coulter in his hand, which he still made use of to open Boxes or any thing he had a minde to look into. She likewise had an opportunity to view the face of one other of the Thieves, and took such good notice as to know him again: but when they were gone, would not discover a word of it to her Uncle, fearing, as she has since confessed, that if she
+<pb n="6" facs="tcp:187753:5"/> should have spoken any thing, her Father or some of his Comrades would kill her.</p>
+            <p>It was a long time before the poor wounded Man got the use of his Limbs again, his Life being for a great while much dispaired of. But he alwaies had a violent Suspicion of his Brother-in-Law, to be the principal Villain that did him the Injury; having had some glimpses of of him as they fought together in the Dark and afterwards; yet deferr'd the Prosecution, the rather, for that in truth, this <hi>Gardiner</hi> follow<g ref="char:EOLhyphen"/>ing continually such base courses, was not to be found.</p>
+            <p>But at last, Providence having designed him a Punishmenr suitable to his Wicked Waies, both he and his former Practises were brought to light: For this last Winter having with one <hi>Deadman</hi> been concerned in stealing some <hi>Wheat</hi> out of a <hi>Barn,</hi> they were appehended there<g ref="char:EOLhyphen"/>upon, and Committed to the common Goal for the County of <hi>Sussex.</hi> And then, and not till then, the young Maid acquainted her Uncle, that it was her Father that was one that robbed him: Whereupon he carried her with him to the Assizes, in order to prosecute against him. And it is said, That assoon as <hi>Gardiner</hi> (who before was very chearful, not fearing but to get off about the Wheat, for which he was com<g ref="char:EOLhyphen"/>mitted) heard they were come to Town, he presently began to despair of escaping, and was heard to say; <hi>O then I am a dead man.</hi> And assoon as his Daughter saw him and the rest of
+<pb n="7" facs="tcp:187753:5"/> the Prisoners, she pointed to <hi>Deadman,</hi> affirm<g ref="char:EOLhyphen"/>ing, That he was one that was with her Father in the robbing of her Uncle.</p>
+            <p>Whereupon an Indictment being preferr'd a<g ref="char:EOLhyphen"/>gainst them by <hi>Davis,</hi> and found by the Grand Inquest, they were brought to their Tryal, where <hi>Davis</hi> swore onely to Circumstances, and that to the best of his knowledge, they were the men; but the Daughter swore it directly and positively, that they were the very same: Upon which <hi>Gardiner</hi> spoke to her in Court in these words: <hi>Childe, look upon me, am I not thy Fa<g ref="char:EOLhyphen"/>ther? and what have I done, that thou shouldest go about to take away my Life thus falsly and maliciously?</hi> And thereupon proceeded to make many protestations of his Innocency in the Fact charged against him, but the Maid with much assurance, answered to this effect:
+<q>I confess you are my Father, and I am sorry to see you in this Condition; but many a good Childe may have a bad Father: I am upon my Oath, and my Soul is dearer to me than my Father: I speak nothing but the Truth, and that I must and will speak.</q>
+            </p>
+            <p>And so repeated her Evidence, and persisted in it, That he was one of them that robbed her Uncle, and the very man that gave him those cruel blows whereby his Limbs were broken, and that <hi>Deadman</hi> was another of them; where<g ref="char:EOLhyphen"/>upon the Jury for life and death, brought them
+<pb n="8" facs="tcp:187753:6"/> in guilty, and they both received Sentence to die for the same.</p>
+            <p>After their Condemnation, they denied their doing it to a <hi>Minister,</hi> that went to visit them in order to Preparation for their latter End; but did not seem to express such outward signs of their being sensible of their sad Condition, as might have been expected. One of them be<g ref="char:EOLhyphen"/>ing questioned as he went to Execution by a Gentleman of Quality, formerly his Master, whether he had ever wronged him. He so<g ref="char:EOLhyphen"/>lemnly protested, that <hi>He had not;</hi> but con<g ref="char:EOLhyphen"/>fessed, that since, he had been very <hi>Guilty of Theft,</hi> and injured divers Persons: but affirmed That for <hi>that very Fact,</hi> for which he was now to Die, he was <hi>innocent.</hi> And so they both avowed at the Gallowes: But very few peo<g ref="char:EOLhyphen"/>ple have yet the Charity to believe them. How<g ref="char:EOLhyphen"/>ever the Law proceeded justly, and the Exe<g ref="char:EOLhyphen"/>cutioner did his Office: And their Case is now left to the Judgment of a Higher Tribunal, where no mistakes can be committed.</p>
+            <p>There were no more Executed these Assizes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187753:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
